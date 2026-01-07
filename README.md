@@ -27,4 +27,5 @@ demonstrating effective model training and generalization.
 
 ## How to Run
 1. Clone the repository
-2. Install dependencies:
+2. Install dependencies
+3. Run the training notebook or script
