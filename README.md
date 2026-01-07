@@ -25,7 +25,12 @@ achieve good accuracy and generalization.
 Achieved strong classification performance on the validation dataset,
 demonstrating effective model training and generalization.
 
-## How to Run
-1. Clone the repository
-2. Install dependencies
-3. Run the training notebook or script
+## Pretrained Model
+This repository includes a pretrained CNN model saved as `bird.pth`.
+The model can be directly used for inference without retraining.
+
+## Running Inference
+
+```bash
+python bird.py sample_data test bird.pth
+
